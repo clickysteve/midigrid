@@ -30,6 +30,7 @@ local supported_devices = {
     { midi_base_name= 'launchpad mini mk3 2',   device_type='launchpad_minimk3' },
     { midi_base_name= 'launchpad mini mk3 2 2', device_type='launchpad_minimk3' },
     { midi_base_name= 'launchpad pro mk3',      device_type='launchpad_rgb' },
+    { midi_base_name= 'Launchpad Pro MK3 1',    device_type='launchpad_rgb' },
     { midi_base_name= 'launchpad x 2',          device_type='launchpad_x' },
     { midi_base_name= 'launchpad x 2 2',        device_type='launchpad_x' },
     
@@ -38,6 +39,7 @@ local supported_devices = {
     
     -- Linnstrument
     { midi_base_name= 'linnstrument midi',          device_type='linnstrument'   },
+    { midi_base_name= 'LinnStrument MIDI',          device_type='linnstrument'   },
 
   }
 }
